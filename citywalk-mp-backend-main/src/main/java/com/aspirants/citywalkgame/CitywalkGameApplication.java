@@ -8,7 +8,7 @@ public class CitywalkGameApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CitywalkGameApplication.class, args);
-		System.out.println("hello");
+		System.out.println("hello wold");
 	}
 
 }
